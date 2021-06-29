@@ -1,0 +1,16 @@
+{
+  "name": "webrtc-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Edge versions",
+    "Firefox ESR",
+    "last 2 Safari versions",
+    "last 2 iOS versions"
+  ],
+  "dependencies": {
+    "serialize-error": "^8.1.0"
+  }
+}
